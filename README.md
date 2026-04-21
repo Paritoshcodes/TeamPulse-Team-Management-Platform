@@ -52,17 +52,6 @@ The app uses React Router for page navigation and Express + MongoDB APIs for per
    - final zip preparation review.
 - Supported UI content review for clarity and consistency (labels, headings, and page text).
 
-## Professor Presentation Overview (Individual)
-
-### Paritosh Singh - What to Explain
-I handled the core architecture and advanced logic of TeamPulse. My main contribution was connecting frontend and backend completely, including MongoDB integration, API design, image upload pipeline using Multer, and production-ready route/controller structure. I also implemented the advanced extra features: persistent theme toggle, live dashboard stats endpoint integration, and real-time member search/filter behavior. In short, I owned the technical backbone and full integration quality.
-
-### Kavya Goel - What to Explain
-I focused on frontend implementation and user experience flow. I worked on building the required pages with React Router, organizing the Add Member form UI, displaying members in a clean card layout, and showing complete member details in a separate page. I also contributed to responsive styling and tested page-to-page navigation and API-connected UI behavior to ensure smooth usage.
-
-### Sanskar Agrawal - What to Explain
-I focused on documentation quality, testing support, and submission readiness. I organized and validated README sections as per rubric expectations, reviewed setup and API usage instructions, and verified application flows through browser/API checks. I also supported final submission preparation by reviewing folder structure, ignore rules, and packaging requirements.
-
 ## Technologies Used
 - Frontend: React.js, React Router DOM, Axios, CSS
 - Backend: Node.js, Express.js, MongoDB (Mongoose), Multer
